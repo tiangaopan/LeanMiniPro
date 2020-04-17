@@ -16,9 +16,9 @@
 		"scopeDataCheck": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.10.4",
 	"appid": "wx3c15a8cc66195fb7",
-	"projectname": "miniprogram-1",
+	"projectname": "练习",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
