@@ -1,0 +1,6 @@
+{
+  "usingComponents": {}, //自定义组
+  "navigationBarTitleText": "商品分类",
+  "enablePullDownRefresh": true
+
+}
