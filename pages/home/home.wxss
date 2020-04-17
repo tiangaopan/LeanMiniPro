@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.title{
+  color: aqua;
+  font-size: xx-large;
+  font-weight: bold;
+}
